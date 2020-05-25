@@ -1,0 +1,22 @@
+{
+  "name": "wechat-mini-app-qrcode",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelise7/QR-Code.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angelise7/QR-Code/issues"
+  },
+  "homepage": "https://github.com/angelise7/QR-Code#readme"
+}
